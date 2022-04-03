@@ -1,24 +1,31 @@
-Mikhail Ivanov
+# Mikhail Ivanov
 ---
 Belarus, Minsk
-###  Contact informantion:
+##  Contact informantion:
 **E-mail**: mmvservermmv@gmail.ru;
 ***
-### Education
-####Belarusian State Academy of Aviation
+## Education
+### Belarusian State Academy of Aviation
 
-*Organization of traffic and provision of flights in air transport.
+*Organization of traffic and provision of flights in air transport*.
 ***
-### About
+## About
 ###### I am interested in web development because:
--* I can use my skills to create my own websites and web applications.
--* The ability to work remotely.
--* The ability to work independently.
--* The ability to enter the lucrative technology industry.
--* To build awesome stuff!
--* Endless opportunities for professional growth!
+
+- *I can use my skills to create my own websites and web applications*.
+
+- *The ability to work remotely*.
+
+- *The ability to work independently*.
+
+- *The ability to enter the lucrative technology industry*.
+
+- To build awesome stuff!
+
+- Endless opportunities for professional growth!
+
 ***
-#### Skill and Profciency:
+## Skill and Profciency:
 * HTML5, CSS3
 * JavaScript Basics
 * Git, GitHub
