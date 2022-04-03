@@ -33,11 +33,12 @@ body{
 .header-contact{
     float: right;
     padding: 30px;
+    font-weight: 400;
 }
 .header-contact a{
     text-decoration: none;
     color: rgb(52, 73, 94);
-    font-weight: 500;
+    font-weight: 400;
 
 }
 .clear-div{
@@ -47,7 +48,24 @@ body{
 hr{
     border: 1px solid rgb(52, 73, 94);
     width: 100%;
-    margin: 20px auto;
+    margin: 30px auto;
     border-bottom: none;
+
+}
+
+#education-section{
+
+}
+.content{
+
+}
+.left-div{
+    width: 30%;
+    float: left;
+
+}
+.right-div{
+    width: 70%;
+    float: left;
 
 }
