@@ -18,3 +18,10 @@ Belarus, Minsk
 -* To build awesome stuff!
 -* Endless opportunities for professional growth!
 ***
+#### Skill and Profciency:
+* HTML5, CSS3
+* JavaScript Basics
+* Git, GitHub
+* VS Code
+* Adobe Photoshop
+***
