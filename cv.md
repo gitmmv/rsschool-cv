@@ -1,5 +1,5 @@
 # Mikhail Ivanov
----
+
 Belarus, Minsk
 ##  Contact informantion:
 **E-mail**: mmvservermmv@gmail.ru;
@@ -32,3 +32,12 @@ Belarus, Minsk
 * VS Code
 * Adobe Photoshop
 ***
+###  Courses
+* JavaScript Manual on learnjavascript.ru
+* RS Schools Course «JavaScript/Front-end. Stage 0»
+* FrontendMaster.com
+***
+###  Languages
+* Russian - Native
+* English -Basic
+* Polish - Basic
