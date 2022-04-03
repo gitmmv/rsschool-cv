@@ -3,12 +3,12 @@
 Belarus, Minsk
 ##  Contact informantion:
 **E-mail**: mmvservermmv@gmail.ru;
-***
+
 ## Education
 ### Belarusian State Academy of Aviation
 
 *Organization of traffic and provision of flights in air transport*.
-***
+
 ## About
 #### I am interested in web development because:
 
@@ -31,12 +31,12 @@ Belarus, Minsk
 * Git, GitHub
 * VS Code
 * Adobe Photoshop
-***
+
 ###  Courses
 * JavaScript Manual on learnjavascript.ru
 * RS Schools Course «JavaScript/Front-end. Stage 0»
 * FrontendMaster.com
-***
+
 ###  Languages
 * Russian - Native
 * English -Basic
