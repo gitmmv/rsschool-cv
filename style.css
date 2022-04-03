@@ -6,4 +6,48 @@
 body{
     background-color: beige;
     font-family: 'Roboto', sans-serif;
+    color: rgb(52, 73, 94);
+}
+.container{
+    max-width: 1000px;
+    background-color:#f6f8fa;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #d0d7de;
+    border-radius: 5px;
+    
+}
+
+.avatar-img{
+    width: 120px;
+    height: 120px;
+    border: 2px solid white;
+    border-radius: 50%;
+    float: left;
+
+}
+.header-name{
+    float: left;
+    padding: 30px;
+}
+.header-contact{
+    float: right;
+    padding: 30px;
+}
+.header-contact a{
+    text-decoration: none;
+    color: rgb(52, 73, 94);
+    font-weight: 500;
+
+}
+.clear-div{
+    clear:both;
+}
+
+hr{
+    border: 1px solid rgb(52, 73, 94);
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+
 }
