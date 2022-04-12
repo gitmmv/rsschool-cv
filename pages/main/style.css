@@ -167,8 +167,32 @@ background: #FDDCC4;
   max-height: 728px;
   margin: 0;
 }
-.start-screen_puppy img  {
+
+/* Section 'start'  End */
+
+/* About - start */
+.about {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 77px;
+  margin-bottom: 100px;
+  padding: 0 215px;
+}
+.about_pets{
+  padding-top: 3px;
+}
+.about_content_heading{
+  letter-spacing: 0.1em;
 
 }
-/* Section 'start'  End */
+.about_content {
+display: flex;
+flex-flow: column;
+justify-content: space-between;
+width: 430px;
+height: 380px;
+}
+/* About - end */
+
 
