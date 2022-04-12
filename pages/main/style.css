@@ -1,0 +1,122 @@
+*,
+*::before,
+*::after { box-sizing:border-box; }
+a { text-decoration:none; color:inherit; cursor:pointer; }
+button { background-color:transparent; color:inherit; border-width:0; padding:0; cursor:pointer; }
+figure{ margin:0; }
+ul, ol, dd { margin:0; padding:0; list-style:none; }
+h1, h2, h3, h4, h5, h6 { margin:0; font-size:inherit; font-weight:inherit; }
+p { margin:0; }
+cite { font-style:normal; }
+fieldset { border-width:0; padding:0; margin:0; }
+
+html{
+    scroll-behavior: smooth;
+ }
+ body{
+    
+     font-family: Arial, Helvetica, sans-serif;
+     background: url(./../../assets/images/start-screen-background.jpg) no-repeat;
+     background-position: center top;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ @media only screen and (min-width: 1280px) {
+   body {
+    background-size: 100% 908px;
+   }
+ }
+ 
+ h2, h3, h4, h5{
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.06em;
+    color: #545454;
+    }
+    h2{
+    font-size: 44px;
+    line-height: 130%;
+    }
+    h3{
+    font-size: 35px;
+    line-height: 130%;
+    }
+    
+    h4{
+    font-size: 20px;
+    line-height: 115%;
+    }
+    h5{
+    font-size: 15px;
+    line-height: 110%;
+    }
+    
+    p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    color: #4C4C4C;
+    }
+
+
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  /* padding: 0 40px; */
+
+}
+
+/* Header Start */
+.header {
+  max-width: 1200px;
+  margin-top: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+}
+.header_log_title {
+  font-family: 'Georgia';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.1;
+  letter-spacing: 0.08em;
+  color: #F1CDB3;
+  }
+  .header_log_subtitle {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.15;
+  letter-spacing: 0.1em;
+  color: #FFFFFF;
+  padding-left: 4px;
+  padding-top: 10px;   }
+  nav{
+  padding-bottom: 6px;
+  }
+nav ul{
+  display: flex;
+}
+nav li+li{
+  padding-left: 35px;
+}
+nav a{
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 160%;
+color: #CDCDCD;
+border-bottom: 3px solid transparent;
+padding-bottom: 5px;
+transition: 0.2s ease-in;
+}
+nav a:hover, a.link-active{
+  border-bottom: 3px solid #F1CDB3;
+  color: #FFFFFF;
+}
+
+/* Header End */
