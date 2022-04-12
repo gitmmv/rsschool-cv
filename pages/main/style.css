@@ -195,4 +195,104 @@ height: 380px;
 }
 /* About - end */
 
+/* start */
+
+.pets {
+  background: #F6F6F6;
+  width: 1200px;
+  height: 877px;
+
+}
+.pets h3{
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 55px;
+}
+.pets_slider{
+  width: 1200px;
+  height: 435px;
+  display: flex;
+  align-items: center;
+
+}
+
+.button-arrow{
+  width: 54px;
+  height: 54px;
+  border: 2px solid #F1CDB3;
+border-radius: 100px;
+align-items: center;
+}
+.button-arrow:hover{
+  background: #FDDCC4;
+
+}
+.card + .card{
+  margin-left: 39px;
+}
+.card{
+  margin: 0 auto;
+  width: 270px;
+  height: 435px;
+  background-color: white;
+  border-radius: 9px;
+  text-align: center;
+}
+.card .name{
+  font-family: 'Georgia';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+letter-spacing: 0.098em;
+color: #545454;
+}
+.card img{
+  padding-bottom: 26px;
+}
+
+.card button{
+  width: 187px;
+  height: 52px;
+  border-radius: 100px;
+  border: 2px solid #F1CDB3;
+
+font-family: 'Georgia';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 130%;
+letter-spacing: 0.11em;
+color: #292929;
+margin-top: 31px;
+
+}
+.card button:hover{
+  background: #FDDCC4;
+border:none;
+}
+
+.button_slider{
+width: 261px;
+height: 52px;
+margin-left: 470px;
+margin-top: 60px;
+background: #F1CDB3;
+border-radius: 100px;
+
+font-family: 'Georgia';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 130%;
+letter-spacing: 0.1em;
+color: #292929;
+}
+.button_slider:hover{
+  background: #FDDCC4;
+
+}
+/* end */
+
+
 
