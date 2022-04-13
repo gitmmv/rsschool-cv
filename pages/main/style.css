@@ -238,6 +238,20 @@ align-items: center;
   border-radius: 9px;
   text-align: center;
 }
+.card:hover button{
+background: #FDDCC4;
+border:none;
+}
+.card:hover{
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+  transition: 0.3s ease-in;
+}
+
+
+
+
 .card .name{
   font-family: 'Georgia';
 font-style: normal;
@@ -293,6 +307,56 @@ color: #292929;
 
 }
 /* end */
+
+/* Help - start */
+
+.help {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  padding-top: 76px;
+  padding-bottom: 100px;
+  text-align: center;
+  
+  }
+  .help h3{
+     letter-spacing: 0.09em;
+  }
+  .help_list{
+  height: 281px;
+  width: 1026px;
+   display: flex;
+   flex-flow: column;
+   justify-content: space-between;
+  margin-top: 60px;
+  max-width:1026px ;
+  }
+  .help_list h4{
+    letter-spacing: 0.1em;
+  }
+  .help_list img{
+    padding-bottom: 22px;
+  }
+  .help_list_1 ul{
+     display: flex;
+     justify-content: space-between;
+  
+  }
+  .help_list_2 ul{
+
+     display: flex;
+     justify-content: center;
+  
+  }
+  .help_list_2 li + li{
+     margin-left: 120px;
+  }
+  
+  
+
+/* Help - start */
+
+
 
 
 
