@@ -415,5 +415,76 @@ color: #292929;
   
 /*donation  end */
 
+/* footer */
 
+.footer{
+  background-image: url(./../../assets/images/footer-background.jpg);
+  height: 354px;
+  width: 1280px;
+  padding: 4px 40px;
+  }
+  .footer-content{
+     height: 310px;
+   padding-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  }
+  .footer-content .contacts{
+  width: 281px;
+  }
+  .footer h4{
+     color: #F1CDB3;
+     letter-spacing: 0.1em;
+  
+  }
+  .footer h3{
+     color: #FFFFFF;
+     padding-top: 18px;
+     letter-spacing: 0.11em;
+  
+  }
+  .footer-content .locations{
+  width: 300px;
+  }
+  .contacts-mail{
+  margin-top: 40px;
+  margin-bottom: 37px;
+  
+  }
+  
+  .contacts-mail h4::before{
+     content: url(./../../assets/icons/icon-email.svg);
+     padding-right: 18px;
+     vertical-align: middle;
+  }
+  .contasts-phone h4::before{
+     content: url(./../../assets/icons/icon-phone.svg);
+     padding-right: 20px;
+     vertical-align: middle;
+  }
+  .locations h3{
+     padding-bottom: 33px;
+  }
+  .locations-boston{
+  
+     position: relative;
+     padding-left: 40px;
+     padding-bottom: 33px;
+  }
+  .footer-puppy{
+    margin: 0px 0 0 0px;
+  }
+  
+  .locations-boston::before {
+  content: url(./../../assets/icons/icon-marker.png);
+  position: absolute;
+  left: 0px;
+  }
+  
+     .locations-london h4::before {
+  content: url(./../../assets/icons/icon-marker.png);
+  padding-right: 20px;
+  vertical-align: middle;
+  
+  }
 
